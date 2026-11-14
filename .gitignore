@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.deps/
+*.pyc
+250-project/.git-local-backup/

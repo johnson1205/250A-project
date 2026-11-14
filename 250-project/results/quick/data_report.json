@@ -1,0 +1,59 @@
+{
+  "2023": {
+    "date_start": "2023-04-01",
+    "date_end": "2023-04-07",
+    "raw_rows": 27048,
+    "modeled_rows": 26883,
+    "exclusions": {
+      "input_rows": 27048,
+      "non_regular_season": 0,
+      "unsupported_description": 165,
+      "invalid_count": 0,
+      "excluded_by_description": {
+        "automatic_ball": 81,
+        "hit_by_pitch": 64,
+        "automatic_strike": 20
+      },
+      "excluded_total": 165,
+      "retained_rows": 26883
+    }
+  },
+  "2024": {
+    "date_start": "2024-04-01",
+    "date_end": "2024-04-07",
+    "raw_rows": 26073,
+    "modeled_rows": 25897,
+    "exclusions": {
+      "input_rows": 26073,
+      "non_regular_season": 0,
+      "unsupported_description": 176,
+      "invalid_count": 0,
+      "excluded_by_description": {
+        "hit_by_pitch": 83,
+        "automatic_ball": 83,
+        "automatic_strike": 10
+      },
+      "excluded_total": 176,
+      "retained_rows": 25897
+    }
+  },
+  "2025": {
+    "date_start": "2025-04-01",
+    "date_end": "2025-04-07",
+    "raw_rows": 25477,
+    "modeled_rows": 25289,
+    "exclusions": {
+      "input_rows": 25477,
+      "non_regular_season": 0,
+      "unsupported_description": 188,
+      "invalid_count": 0,
+      "excluded_by_description": {
+        "automatic_ball": 116,
+        "hit_by_pitch": 69,
+        "automatic_strike": 3
+      },
+      "excluded_total": 188,
+      "retained_rows": 25289
+    }
+  }
+}

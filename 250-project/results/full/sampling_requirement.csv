@@ -1,0 +1,7 @@
+query,smallest_tested_n_with_mean_error_at_most_0.02
+future_ball_k1,1000
+future_ball_k2,1000
+future_ball_k3,1000
+future_ball_k4,1000
+at_bat_walk,1000
+at_bat_strikeout,1000
