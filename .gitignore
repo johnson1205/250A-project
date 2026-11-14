@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.deps/
+data/cache/
+data/pybaseball_cache/
+results/
+*.pyc
